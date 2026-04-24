@@ -1,0 +1,7 @@
+[2026-04-24T03:44:12.567Z] GET http://localhost:8787/ → 200 (5ms, 5230B)
+[2026-04-24T03:44:12.576Z] GET https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap → 200 (209ms, 10028B)
+[2026-04-24T03:44:12.809Z] GET https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2 → pending (?ms, ?B)
+[2026-04-24T03:46:20.000Z] GET http://localhost:8787/ → 200 (2ms, 5135B)
+[2026-04-24T03:46:20.006Z] GET https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap → 200 (?ms, 10028B)
+[2026-04-24T03:46:20.007Z] GET http://localhost:8787/photo.png → 200 (1ms, 2139849B)
+[2026-04-24T03:46:20.013Z] GET https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2 → 200 (1ms, ?B)

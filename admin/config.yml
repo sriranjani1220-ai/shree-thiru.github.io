@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: premrules-code/shree-thiru.github.io
   branch: main
 
 media_folder: "images"

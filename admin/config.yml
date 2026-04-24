@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: premrules-code/shree-thiru.github.io
+  repo: sriranjani1220-ai/shree-thiru.github.io
   branch: main
 
 media_folder: "images"
